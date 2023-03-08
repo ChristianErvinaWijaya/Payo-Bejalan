@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/btn_tambah"
         android:layout_marginTop="32dp"
-        android:text="TAMBAH DATA"
+        android:text="TAMBAH"
         android:textSize="24sp"/>
 
 </LinearLayout>
